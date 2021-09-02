@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "11369323220",
+    "firebase_url": "https://examinationapp-46d15.firebaseio.com",
+    "project_id": "examinationapp-46d15",
+    "storage_bucket": "examinationapp-46d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11369323220:android:6884a83c2fcb5ce1",
+        "android_client_info": {
+          "package_name": "com.example.examinationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11369323220-0e7lrrvck25dgfp6eebijelv740ucj3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examinationapp",
+            "certificate_hash": "653dfcd4e17cd24e4666423c1520d2e68a5bda47"
+          }
+        },
+        {
+          "client_id": "11369323220-kk0qodgjpc9e6mutaeotop1plecac9mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZHAhyxZXK8s3NLadpuZR4v32SB-mNwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11369323220-kk0qodgjpc9e6mutaeotop1plecac9mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11369323220:android:2216a50f5313c593",
+        "android_client_info": {
+          "package_name": "com.example.myquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11369323220-juqsp1crnjktbnreman2af6o8p1e65ii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myquiz",
+            "certificate_hash": "653dfcd4e17cd24e4666423c1520d2e68a5bda47"
+          }
+        },
+        {
+          "client_id": "11369323220-kk0qodgjpc9e6mutaeotop1plecac9mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZHAhyxZXK8s3NLadpuZR4v32SB-mNwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11369323220-kk0qodgjpc9e6mutaeotop1plecac9mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11369323220:android:639cd9773435deb7",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11369323220-g7q78lgbi5b7092lfjked39qufpt0k0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz",
+            "certificate_hash": "653dfcd4e17cd24e4666423c1520d2e68a5bda47"
+          }
+        },
+        {
+          "client_id": "11369323220-kk0qodgjpc9e6mutaeotop1plecac9mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZHAhyxZXK8s3NLadpuZR4v32SB-mNwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11369323220-kk0qodgjpc9e6mutaeotop1plecac9mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
